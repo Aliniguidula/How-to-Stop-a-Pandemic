@@ -1,0 +1,54 @@
+/**********************************************************************
+ *  README.txt
+ *  HW6 - How to Stop a Pandemic
+ **********************************************************************/
+
+/**********************************************************************
+* Name?
+***********************************************************************/
+Alicia Niguidula
+
+
+
+
+/**********************************************************************
+* Approximate number of hours to complete assignment?
+***********************************************************************/
+18
+
+
+
+
+/**********************************************************************
+ * Describe any serious problems you encountered in this assignment.
+ * What was hard, or what should we warn students about in the future?
+ **********************************************************************/
+This assignment had several tough spots. The graph weight conversions messed up
+Dijkstra's algorithm at first because I forgot to divide by 100 when restoring weights.
+Testing disconnected graphs revealed bugs in my pathfinding. The worst part was the
+immunization strategies (rNumberCC/generationsDegree). Drawing the graphs helped visualize
+problems.
+
+
+
+
+
+/**********************************************************************
+ * List any other comments here. Feel free to provide any feedback
+ * on what you learned from doing the assignment, whether you enjoyed
+ * doing it, etc.
+ **********************************************************************/
+I gained deep hands-on experience with graph algorithms and Java implementation details.
+While frustrating at times, I enjoyed seeing theoretical concepts materialize in code.
+The style checker initially felt picky, but now I appreciate how it enforces
+professional coding standards.
+
+
+
+
+
+
+/**********************************************************************
+ * Enter your expected grade (over 205)
+ **********************************************************************/
+185
